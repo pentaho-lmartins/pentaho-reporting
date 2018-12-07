@@ -30,6 +30,11 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
+      <groupId>commons-logging</groupId>
+      <artifactId>commons-logging</artifactId>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>com.lowagie</groupId>
       <artifactId>itext</artifactId>
       <scope>compile</scope>
